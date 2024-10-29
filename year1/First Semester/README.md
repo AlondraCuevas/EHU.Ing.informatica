@@ -1,0 +1,1 @@
+this folder is for all the assigments per subject during the first semester
