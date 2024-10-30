@@ -1,0 +1,1 @@
+This folder is for other projects not related to college assigments.
